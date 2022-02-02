@@ -1,3 +1,4 @@
 downloads/*
 imdb.db
 __pycache__/*
+.gitiginore
